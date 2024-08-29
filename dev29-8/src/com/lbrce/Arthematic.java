@@ -8,5 +8,9 @@ public class Arthematic {
 		int b=3;
 		System.out.println(a+b);
 	}
+	public static void newFun() {
+		
+		System.out.println("ok done");
+	}
 
 }
